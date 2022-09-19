@@ -66,7 +66,7 @@ I am determined and decisive. I identify and develop opportunities.
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/klasinky" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=dark alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -78,7 +78,8 @@ I am determined and decisive. I identify and develop opportunities.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=klasinky&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klasinky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="klasinky" /></div>  
+
 
 <br/>  
 
