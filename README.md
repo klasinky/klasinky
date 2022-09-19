@@ -78,7 +78,7 @@ I am determined and decisive. I identify and develop opportunities.
 
 
 ## Github Stats  
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=klasinky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="klasinky" /></div>  
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=klasinky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="klasinky" /></div>  
 
 
 <br/>  
