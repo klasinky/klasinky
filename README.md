@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there!</h1>
+
   
 
 I’m passionate about programming, mainly focus on Backend. I am reliable and dependable and often seek new responsibilities
@@ -72,7 +71,7 @@ I am determined and decisive. I identify and develop opportunities.
 </div>  
   
 
-<div align="center">[Klasinky.com](https://klasinky.com)</div>  
+<div align="center">(https://klasinky.com)</div>  
   
 
 <br/>  
@@ -87,6 +86,7 @@ I am determined and decisive. I identify and develop opportunities.
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hu21ypi7xviho8ehzyro9vwzu&cover_image=true&theme=default" /></div>  
+
 
 <br/>  
 
