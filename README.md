@@ -31,7 +31,7 @@ I am determined and decisive. I identify and develop opportunities.
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -48,7 +48,7 @@ I am determined and decisive. I identify and develop opportunities.
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -59,7 +59,7 @@ I am determined and decisive. I identify and develop opportunities.
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/m-alejandro-gonzalez-leal-80034b136/" target="_blank">
+<a href="https://www.linkedin.com/in/alejandro-gonzalez-leal-80034b136/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/rishavanand" target="_blank">
