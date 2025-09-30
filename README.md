@@ -41,9 +41,6 @@ I’m passionate about programming, with a focus on Backend development. I am re
 <a href="https://github.com/klasinky" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom:5px"/>
 </a>
-<a href="https://dev.to/klasinky" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=dark" alt="Dev.to" style="margin-bottom:5px"/>
-</a>
 </div>  
 
 <div align="center">
@@ -57,22 +54,4 @@ I’m passionate about programming, with a focus on Backend development. I am re
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klasinky&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
----
 
-## 🎵 Spotify
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=hu21ypi7xviho8ehzyro9vwzu&cover_image=true&theme=default" />
-</div>
-
----
-
-## 👀 Profile Views
-<div align="center">
-<img src="https://gpvc.arturio.dev/klasinky" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
-Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
-</div>
